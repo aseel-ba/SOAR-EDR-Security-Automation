@@ -21,12 +21,6 @@ This project aims to simulate a real-world SOC environment by integrating EDR (L
 
 - Diagramming: Draw.io (Workflow & Architecture Design)
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
-
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ### Project Steps
 
