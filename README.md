@@ -45,6 +45,7 @@ This project aims to simulate a real-world SOC environment by integrating EDR (L
 
 4. **Detection Engineering (LimaCharlie D&R Rules)**
    * Authored a custom **D&R (Detection & Response) rule** in LimaCharlie to detect the execution of credential-dumping tools.
+    [Click here to view the LimaCharlie D&R Rule](./lazagne_detection_rule.yaml)
    * Mapped the detection logic to **MITRE ATT&CK Technique T1003 (OS Credential Dumping)** to align with industry standards.
   
 <img width="1155" height="747" alt="Screenshot 1447-07-11 at 1 10 43 PM" src="https://github.com/user-attachments/assets/441e427c-5417-4afa-a4cb-d3496c158f99" />
