@@ -1,4 +1,4 @@
-<img width="636" height="696" alt="Screenshot 1447-07-11 at 1 32 18 PM" src="https://github.com/user-attachments/assets/df491994-1ed8-4020-911a-52102795a71d" /># SOAR & EDR Project
+# SOAR & EDR Project
 
 ## Objective
 
