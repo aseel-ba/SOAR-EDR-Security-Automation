@@ -53,7 +53,8 @@ This project aims to simulate a real-world SOC environment by integrating EDR (L
    * Integrated **LimaCharlie with Tines** using API keys and Webhooks to automate alert forwarding.
    * Configured automated notifications to **Slack and Email**, providing the analyst with essential alert metadata (Hostname, User, Process ID).
   
-<img width="1109" height="423" alt="Screenshot 1447-07-11 at 1 14 10 PM" src="https://github.com/user-attachments/assets/37c52d6b-3114-4cb7-8ac1-0a1a98595f00" />
+<img width="1102" height="406" alt="Screenshot 1447-07-11 at 1 39 23 PM" src="https://github.com/user-attachments/assets/5bc4b90d-84ab-41c4-aab0-cd7b65fb9322" />
+
 
 6. **Automated Response & Host Isolation**
    * Built an interactive **Tines Story** that includes a manual approval gate (Human-in-the-loop).
